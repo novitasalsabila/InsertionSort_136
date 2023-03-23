@@ -68,6 +68,11 @@ void insertionsort() {
 
 void display() {
 
+    cout << endl;       //  Output baris kosong
+    cout << "Total Element Movement = " << endl;  //cout movemant element
+    cout << "\n========================" << endl; // Output kelayar
+    cout << "Element Array yang telah tersusun " << endl;  // Output kelayar
+    cout << "\n========================" << endl;
 }
 
 int main()
