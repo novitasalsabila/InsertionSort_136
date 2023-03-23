@@ -66,6 +66,10 @@ void insertionsort() {
     }
 }
 
+void display() {
+
+}
+
 int main()
 {
 
