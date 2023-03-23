@@ -22,6 +22,11 @@ void input() {
             cout << "\narray yang anda masukan maksimal 20 elemen. \n"; // Menampilkan pesan jika data lebih dari 20
 
     }
+
+    cout << endl;
+    cout << "====================" << endl;
+    cout << "Masukan Element Array" << endl;
+    cout << "====================" << endl;
 }
 
 int main()
