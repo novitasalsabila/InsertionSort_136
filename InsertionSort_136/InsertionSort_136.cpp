@@ -73,6 +73,12 @@ void display() {
     cout << "\n========================" << endl; // Output kelayar
     cout << "Element Array yang telah tersusun " << endl;  // Output kelayar
     cout << "\n========================" << endl;
+
+    for (int j = 0;j < n; j++)
+    {                           // Looping dengan j mulai dari 0 hingga n-1
+        cout << arr[j] << endl; // Output kelayar
+    }
+    cout << endl;   // Output baris kosong
 }
 
 int main()
