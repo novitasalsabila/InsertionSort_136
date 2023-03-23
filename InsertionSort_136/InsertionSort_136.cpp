@@ -37,6 +37,10 @@ void input() {
 
 }
 
+void insertionsort() {
+
+}
+
 int main()
 {
 
